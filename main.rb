@@ -1,3 +1,5 @@
+require 'sinatra'
+
 get '/' do
   erb :profile
 end
